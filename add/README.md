@@ -15,4 +15,4 @@ C function that takes two numbers and returns the sum of those numbers.
 
 or:
 
-  node try.js
+    node try.js

@@ -21,4 +21,4 @@ does not mutate the input array (as `Array.sort` does).
 
 or:
 
-  node try.js
+    node try.js

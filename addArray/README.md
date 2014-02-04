@@ -15,4 +15,4 @@ C function that takes an array of numbers and a count and returns the sum.
 
 or:
 
-  node try.js
+    node try.js
